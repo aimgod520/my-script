@@ -6,7 +6,6 @@
     "start": "node aimu.js"
   },
   "dependencies": {
-    "node-telegram-bot-api": "0.66.0",
-    "gtts": "^1.0.0"
+    "node-telegram-bot-api": "0.66.0"
   }
 }
